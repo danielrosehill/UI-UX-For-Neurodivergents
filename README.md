@@ -1,10 +1,14 @@
-# UI/UX For Neurodivergent Users
+# UI/UX For Neurodivergent Users - A Few Resources
 
 ## Purpose Statement
 
 This repository aggregates a very modest collection of resources which have been written by credible sources and which were intended to foster discussions, and suggest best practices, for creating user experiences and user interfaces that cater to the needs of neurodiverse users. 
 
-To respect the copyright of the authors, unmodified resources, in their originals, will not be included, but rather linked to in a single file: `resources.md`. 
+To respect the copyright of the authors, unmodified resources, in their originals, will not be included (if you are the author and are happy to waive that right for the benefit of others, please be in touch!). 
+
+In the first instance, resources are added to a single file at the repository root: `resources.md`. Later they will (maybe) be grouped into lists which are grouped according to the nature of the material (academic theses; blogs; guideline documents; etc).
+
+I hope to update the resource list periodically as new material becomes available. But as always, make no formal commitment to doing so. 
 
 ## Author
 
